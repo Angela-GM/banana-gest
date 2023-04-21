@@ -1,14 +1,3 @@
-# banana-gest
-Gestor de persona y proyectos, trabajo grupal F5
-
-
-- descripción, imágenes y url del prototipo de bajo nivel
-- descripción, imágenes y url del wireframe
-- descripción, imágenes y url de la carta gráfica.
-- descripción, imágenes y url del prototipo de alto nivel
-
-------------
-------------
 BIENVENIDO A LA APLICACIÓN DE BANANA GEST
 
 Esta es un aplicación para desarrolladores de la empresa y el personal de recursos humanos.
@@ -38,3 +27,4 @@ Una aplicación web a la que acceder des de diferentes dispositivos.
 
 ¿Por dónde empezamos el prototipo?
 Por la definición de los objetivos, necesidades y el diagrama de flujo del usuario.
+
