@@ -38,3 +38,5 @@ Una aplicación web a la que acceder des de diferentes dispositivos.
 
 ¿Por dónde empezamos el prototipo?
 Por la definición de los objetivos, necesidades y el diagrama de flujo del usuario.
+
+Carta de Diseño [https://www.figma.com/file/C0XYwnLuY5SlJOVVomxvpu/BanaGest?node-id=43%3A70&t=cC04Md4vCVv3RH6j-1]
