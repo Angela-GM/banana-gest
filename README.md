@@ -2,10 +2,22 @@
 Gestor de persona y proyectos, trabajo grupal F5
 
 
-- descripción, imágenes y url del prototipo de bajo nivel
-- descripción, imágenes y url del wireframe
-- descripción, imágenes y url de la carta gráfica.
+ 
+<details>
+<summary>Descripción, imágenes y url del wireframe</summary>
+<br>
+![](./img/banangestwf.png)
+</details>
+
+<details>
+<summary>descripción, imágenes y url de la carta gráfica.</summary>
+<br>
+![](./img/styleguide-banangest.png)
+</details>
+
 - descripción, imágenes y url del prototipo de alto nivel
+- [Prototype HI Fi](https://www.figma.com/proto/k801nkZg6bOtiTVxsGczlY/Banana-Gest-prototype?node-id=1-337&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A337)
+
 
 ------------
 ------------
