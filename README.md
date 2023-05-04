@@ -6,16 +6,16 @@ Gestor de persona y proyectos, trabajo grupal F5
 <details>
 <summary>Descripción, imágenes y url del wireframe</summary>
 <br>
-![](./img/banangestwf.png)
+<img src="https://github.com/Angela-GM/banana-gest/blob/main/img/banangestwf.png?raw=true">
 </details>
 
 <details>
 <summary>descripción, imágenes y url de la carta gráfica.</summary>
 <br>
-![](./img/styleguide-banangest.png)
+<img src="https://github.com/Angela-GM/banana-gest/blob/main/img/styleguide-banangest.png?raw=true">
 </details>
 
-- descripción, imágenes y url del prototipo de alto nivel
+- Descripción, imágenes y url del prototipo de alto nivel
 - [Prototype HI Fi](https://www.figma.com/proto/k801nkZg6bOtiTVxsGczlY/Banana-Gest-prototype?node-id=1-337&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A337)
 
 
